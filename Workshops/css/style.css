@@ -681,7 +681,7 @@ Javascript disabled
   position: static;
   visibility: visible;
   height: auto;
-  background-color: #dadcdc;
+  background-color: white;
 }
 .no-js .cd-fold-content.single-page > * {
   opacity: 1;
